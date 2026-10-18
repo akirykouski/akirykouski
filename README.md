@@ -19,8 +19,8 @@ At **[Veliu](https://akirykouski.space/#experience)**, an agentic commerce lab, 
 **[Live Context Collision](https://akirykouski.space/projects/live-context-collision)** · [code](https://github.com/akirykouski/live-context-collision)  
 Real-time meeting agent. Five Gemini judges check each statement against company memory, and a deterministic verifier makes every warning quote its source verbatim. 2nd in two Vultr categories and a Google DeepMind prize at Milan AI Week 2026.
 
-**[Clario](https://akirykouski.space/projects/clario)** · [code](https://github.com/akirykouski/symptom-diary)  
-Local-first symptom diary. A fine-tuned Gemma extractor lifted entity F1 from 0.42 to 0.71. Encrypted at rest, no cloud, no telemetry.
+**[Clario](https://akirykouski.space/projects/clario)** · [code](https://github.com/akirykouski/clario-amd)  
+Private symptom diary and a clinic review console on AMD Instinct. A fine-tuned Gemma 4 E4B scores F1 0.693 on held-out diaries, against 0.356 before fine-tuning.
 
 **[SMP2DIAG](https://akirykouski.space/projects/smp2diag)** · [code](https://github.com/akirykouski/NLP_disease_prediction)  
 22 diagnoses from symptom text. ClinicalBERT at 97% accuracy and F1 0.97, against PPMI, GloVe, Flan-T5 and a prompted LLM that reached 67%.
